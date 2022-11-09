@@ -1,0 +1,5 @@
+Prva linija
+Druga linja
+Treca linija
+Ovo je kraj fajla
+Ipak nije kraj fajla
